@@ -23,4 +23,3 @@ if (true) {
 }
 console.log(a); // 10
 console.log(b); // 2
-//# sourceMappingURL=let.js.map

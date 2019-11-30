@@ -7,4 +7,3 @@ var person = {
 //person = {};              // Impossible to modify the variable
 person.name = "Huy Son"; // Possible to modify the object properties
 console.log(person.name);
-//# sourceMappingURL=const-keyword.js.map
