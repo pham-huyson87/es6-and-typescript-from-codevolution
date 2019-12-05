@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var employee = ["Huy", "Pham", "male"];
+var firstname = employee[0], lastname = employee[1], _a = employee[2], gender = _a === void 0 ? "Male" : _a;
+console.log(firstname);
+console.log(lastname);
+console.log(gender);
+var onlyGender = employee[2];
+console.log(onlyGender);
+var fname = employee[0], restElements = employee.slice(1);
+console.log(restElements);
